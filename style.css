@@ -1,0 +1,31 @@
+body {
+
+    background-image: url(images/bg.jpg);
+    background-color: #59e7ae;
+}
+
+
+.col {
+    margin: 10px;
+    text-align: left;
+}
+
+/*
+.boxregister
+{
+    border-radius: 5px;
+    align-content: center;
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 150px;
+    height: inherit;width: inherit;
+    background-color:beige;
+}
+*/
+@media screen and (min-width:786px and max-width:1024px) {
+    .boxregister {
+        margin: 10%;
+    }
+}
